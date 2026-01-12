@@ -28,7 +28,7 @@ pip install torch torch-geometric numpy pandas matplotlib
 python train_reco.py
 
 
-##Output
+## Output
 
 - Trained GNN model
 - Probability distributions for true and false candidates
