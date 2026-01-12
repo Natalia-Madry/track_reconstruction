@@ -25,7 +25,7 @@ pip install torch torch-geometric numpy pandas matplotlib
 ## How to Run:
 ### Run training and evaluation:
 
-python train_reco.py
+python train.py
 
 
 ## Output
